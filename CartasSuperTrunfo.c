@@ -22,7 +22,7 @@ int main(){
     //Entrada de dados da carta 1.
     printf("Carta1:\n");
     printf("Digite o Estado:\n");
-    scanf(" %19s", &estado1);
+    scanf(" %s", &estado1);
     printf("Digite o código da carta:\n");
     scanf(" %s", &codigo1);
     printf("Digite o nome da cidade:\n");
